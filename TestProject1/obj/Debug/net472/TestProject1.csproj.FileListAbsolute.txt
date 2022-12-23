@@ -1,0 +1,57 @@
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\nunit.engine.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\TestProject1.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\TestProject1.pdb
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\nunit.framework.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\ConsoleApp1.exe
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\ConsoleApp1.pdb
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\bin\Debug\net472\ConsoleApp1.exe.config
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.csproj.CopyComplete
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.dll
+C:\Users\user\Desktop\ConsoleApp1\TestProject1\obj\Debug\net472\TestProject1.pdb
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\nunit.engine.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\TestProject1.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\TestProject1.pdb
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\nunit.framework.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\Factorial _lab5.exe
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\Factorial _lab5.pdb
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\bin\Debug\net472\Factorial _lab5.exe.config
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfo.cs
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.csproj.CopyComplete
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.dll
+C:\Users\Leonid\source\repos\Factorial _lab5\TestProject1\obj\Debug\net472\TestProject1.pdb
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.pdb
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\nunit.engine.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\TestProject1.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\TestProject1.pdb
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\nunit.framework.dll
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\Factorial_lab_5.exe
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\Factorial_lab_5.pdb
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\bin\Debug\net472\Factorial_lab_5.exe.config
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfo.cs
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Documents\repos\Factorial_lab_5\TestProject1\obj\Debug\net472\TestProject1.csproj.CopyComplete
